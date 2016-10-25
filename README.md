@@ -1,5 +1,11 @@
 # Python_Youtube_Downloader
 This repository contains four different scripts to download videos and songs from youtube by making the use of module "PAFY".
+
+youtube_music.py <-- To download audio only of the video-url.
+youtube_video.py <-- To download the full video of the given url.
+youtube_playlist.py <-- To download all the videos in the playlist given the url of the playlist.
+youtube_mp3list.py <-- To download the playlist in audio format given the url of the playlist.
+
 Here is how to use the module "PAFY" in your own python code. 
 
 >>> import pafy
